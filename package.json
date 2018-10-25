@@ -33,7 +33,7 @@
     "async": "0.2.10",
     "gapitoken": "0.1.2",
     "multipart-stream": "1.0.0",
-    "request": "2.37.0"
+    "request": "2.81.0"
   },
   "devDependencies": {
     "js-beautify": "1.5.1",
